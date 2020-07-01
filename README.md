@@ -28,6 +28,7 @@ An "awesome" list of the Ionic resources
 * [A Simple Guide to Navigation in Ionic](http://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/)
 * [10 Minutes with Ionic: Adding Pages and Navigation](http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/)
 * [10 Minutes with Ionic: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)
+* [Integrating Headless CMS ButterCMS to your Ionic App by Mike Hartington](https://buttercms.com/blog/integrating-buttercms-with-ionic)
 * [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/)
 * [How to Create a Data Model in Ionic](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)
 * [Ionic and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
